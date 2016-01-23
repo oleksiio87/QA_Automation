@@ -30,8 +30,12 @@ public class LoginTest {
     @BeforeClass
     public void startBrowser() {
         driver = new FirefoxDriver();
-        driver.get(URL_SITE);
         driver.manage().timeouts().implicitlyWait(1, TimeUnit.SECONDS);
+    }
+
+    @BeforeMethod
+    public void openSite() {
+        driver.get(URL_SITE);
     }
 
     @Test
@@ -44,12 +48,15 @@ public class LoginTest {
 
     @Test
     public void cannotLoginWithInvalidCredentials() {
-        driver.manage().deleteAllCookies();
-        driver.navigate().refresh();
         driver.findElement(By.cssSelector(CSS_LOGIN_FIELD)).sendKeys(INVALID_LOGIN);
         driver.findElement(By.cssSelector(CSS_PASSWORD_FIELD)).sendKeys(INVALID_PASSWORD);
         driver.findElement(By.cssSelector(CSS_LOGIN_BUTTON)).click();
         Assert.assertEquals(driver.findElement(By.cssSelector(CSS_INVALID_CREDENTIALS_MESSAGE)).getText(), "Unable to verify credentials");
+    }
+
+    @AfterMethod
+    public void deleteCoockies() {
+        driver.manage().deleteAllCookies();
     }
 
     @AfterClass
