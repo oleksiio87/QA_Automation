@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5083021-5d8b-4025-a288-3477013fbf24" name="Default" comment="" />
+    <list default="true" id="b5083021-5d8b-4025-a288-3477013fbf24" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginTest.java" />
+    </list>
     <ignored path="FirstTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,12 +29,12 @@
       <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6219512">
-              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.8045977">
+              <caret line="58" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2157#2158#0" expanded="true" />
-                <element signature="e#2186#2187#0" expanded="true" />
+                <element signature="e#2141#2142#0" expanded="true" />
+                <element signature="e#2170#2171#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -580,34 +582,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest - 2016.01.23 at 12h 18m 38s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 13h 49m 19s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 20m 50s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 13h 50m 28s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 21m 10s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 13h 51m 31s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 22m 00s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 13h 57m 08s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 26m 50s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 14h 03m 02s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 27m 41s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 14h 06m 46s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 29m 19s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 14h 08m 20s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 31m 38s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 14h 12m 39s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 36m 33s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 14h 13m 58s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest - 2016.01.23 at 12h 41m 14s.xml">
+    <history-entry file="LoginTest - 2016.01.23 at 14h 16m 21s.xml">
       <configuration name="LoginTest" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -621,20 +623,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.49546143" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.294686" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15431164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3268921" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09909228" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.294686" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11433172" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18759455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -646,7 +649,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -684,8 +686,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2141#2142#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -704,8 +706,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2141#2142#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -724,8 +726,8 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2141#2142#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -746,8 +748,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="114" column="9" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
           <folding>
-            <element signature="e#4235#4236#0" expanded="true" />
-            <element signature="e#4314#4315#0" expanded="true" />
+            <element signature="e#4235#4236#0" expanded="false" />
+            <element signature="e#4314#4315#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -762,12 +764,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6219512">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.8045977">
+          <caret line="58" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2157#2158#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2141#2142#0" expanded="true" />
+            <element signature="e#2170#2171#0" expanded="true" />
           </folding>
         </state>
       </provider>
